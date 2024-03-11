@@ -1,7 +1,7 @@
 const Alert = () => {
   return (
     <div>
-      {/* <div role="alert" class="alert alert-info">
+      <div role="alert" class="alert alert-info">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -16,7 +16,7 @@ const Alert = () => {
           ></path>
         </svg>
         <span>New software update available.</span>
-      </div> */}
+      </div>
       {/* 
       <div role="alert" class="alert alert-success">
         <svg
